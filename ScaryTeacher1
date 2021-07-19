@@ -10,14 +10,14 @@
          "splash_ads":"false"
       },
       {
-         "app_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-         "banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-         "interstitial_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-         "interstitial_id1":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-         "interstitial_id2":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-         "native_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-         "native_banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-         "rectangle_banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+         "app_id":"",
+         "banner_id":"553860685789569_553864882455816",
+         "interstitial_id":"553860685789569_555008902341414",
+         "interstitial_id1":"553860685789569_555009129008058",
+         "interstitial_id2":"553860685789569_555009205674717",
+         "native_id":"553860685789569_555009275674710",
+         "native_banner_id":"553860685789569_555009352341369",
+         "rectangle_banner_id":"",
          "status":"true",
          "splash_ads":"false"
       }
